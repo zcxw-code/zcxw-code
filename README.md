@@ -12,8 +12,8 @@
 <!--             <img src="https://github-readme-stats.vercel.app/api?username=zcxw-code&show_icons=true&theme=gotham" />
           <br/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcxw-code&layout=compact&theme=gotham" /> -->
-          <br/>
+<!--           <br/>
             <img src="https://profile-counter.glitch.me/zcxw-code/count.svg" />
-
+ -->
       
 </p>
