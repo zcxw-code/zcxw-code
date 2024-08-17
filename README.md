@@ -1,10 +1,4 @@
-<h2 align="left">👋 Hello, my name is zcxw, I am 19 years old.</h2>
 
-###
-
-<h3 align="left">I am engaged in software development and especially writing telegram bots, microservices and a complete API system for projects.</h3>
-
-###
 
 <div align="center">
   <img height="155" src="https://i.imgur.com/LW1Dyo3.gif"  />
