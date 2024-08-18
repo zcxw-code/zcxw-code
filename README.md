@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://alridev.io" style="font-family: Arial, sans-serif; font-size: 20px; color: #007acc; text-decoration: none;">alridev.github.io</a>
+  <a href="https://alridev.github.io" style="font-family: Arial, sans-serif; font-size: 20px; color: #007acc; text-decoration: none;">alridev.github.io</a>
 </div>
 
 <hr style="border: 0; height: 1px; background: #007acc; margin-bottom: 20px;" />
